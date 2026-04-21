@@ -5,5 +5,5 @@ pluggy==1.4.0
 PyMuPDF==1.24.0
 PyMuPDFb==1.24.0
 pytest==9.0.3
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 tomli==2.0.1
